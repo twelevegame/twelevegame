@@ -17,7 +17,7 @@
     "EnableADFullScreen": true,
     "EnableADReward": true,
     "EnableInGameADdiban": false,
-    "EnableFreeAD": true,
+    "EnableFreeAD": false,
 
     "EnableGameloginAD": 0,
     "EnableStartWaveAD": 0,
