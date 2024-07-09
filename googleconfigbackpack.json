@@ -20,7 +20,7 @@
 
     "EnableGameloginAD": 0,
     "EnableStartWaveAD": 0,
-    "EnableEndWaveAD": 0,
+    "EnableEndWaveAD": 4,
     "EnableStartShopAD": 0,
     "EnableEndGameAD": 4,
     "EnableBackToGameloginAD": 0,
