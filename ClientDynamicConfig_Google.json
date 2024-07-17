@@ -1,0 +1,67 @@
+{
+  "version": 0,
+  "version_msg": "检查到更新，请到应用商店下载最新版本",
+  "show_close": false,
+  "str_loadout": "广告收益将用于多人联机版服务器维护感谢支持",
+  "url": "",
+  "newGameImageURL": "",
+  "newGameClickURL": "",
+  "Announcement": "",
+
+  "PrivacyURL": "https://unityres.nodofbook.com/skprivacy.html",
+  "AgreementURL": "https://unityres.nodofbook.com/skagreement.html",
+  "HideAndSeekOpen": 0,
+  "EnableTestMode": false,
+  "EnableADInterstitial": true,
+  "EnableADBanner": false,
+  "EnableADFullScreen": false,
+  "EnableADReward": true,
+  "EnableInGameADdiban": false,
+  "EnableFreeAD": false,
+
+  "EnableGameloginAD": 2,
+  "EnableStartWaveAD": 2,
+  "EnableEndWaveAD": 2,
+  "EnableStartShopAD": 2,
+  "EnableEndGameAD": 4,
+  "Enable5WaveAD": 0,
+  "EnableBackToGameloginAD": 2,
+
+  "TestAD": 4,
+
+  "MetaBannerADInterval": 60,
+  "MetaInterADInterval": 60,
+  "MetaFullScreenADInterval": 60,
+
+  "GADReward": {
+    "SetAPPKEY": "ca-app-pub-5404224524654134~7112027939",
+    "SetPOSID": "ca-app-pub-5404224524654134/8438370286"
+  },
+  "GADInterstitial": {
+    "SetAPPKEY": "ca-app-pub-5404224524654134~7112027939",
+    "SetPOSID": "ca-app-pub-5404224524654134/1242406544"
+  },
+
+
+  "OrderADBanner": [ "GAD" ],
+  "OrderADReward": [ "GAD" ],
+  "OrderADInterstitial": [ "GAD" ],
+
+  "UseSignature": false,
+  "signature": "68a62f139c80e97180c5a273601b44ff",
+  "RebirthCount": 3,
+  "RebirthNeedADCount": 1,
+  "ShopBuyAssetCount": 3,
+  "ShopBuyAssetNeedADCount": 1,
+  "ShopAssetParameter": 100,
+
+  "CharacterADNumber": 1,
+  "PauseADNumber": 5
+
+
+
+
+
+
+
+}
