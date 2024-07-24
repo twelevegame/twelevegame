@@ -48,12 +48,12 @@
   "signature": "",
 
   "GADReward": {
-    "SetAPPKEY": "ca-app-pub-5404224524654134~7112027939",
-    "SetPOSID": "ca-app-pub-5404224524654134/8438370286"
+    "SetAPPKEY": "ca-app-pub-5404224524654134~1857202379",
+    "SetPOSID": "ca-app-pub-5404224524654134/3590421602"
   },
   "GADInterstitial": {
-    "SetAPPKEY": "ca-app-pub-5404224524654134~7112027939",
-    "SetPOSID": "ca-app-pub-5404224524654134/1242406544"
+    "SetAPPKEY": "ca-app-pub-5404224524654134~1857202379",
+    "SetPOSID": "ca-app-pub-5404224524654134/3388925837"
   },
 
   "OrderADBanner": [ "GAD" ],
