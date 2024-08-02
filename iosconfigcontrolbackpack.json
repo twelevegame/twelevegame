@@ -46,8 +46,8 @@
     "UseSignature": false,
     "signature": "",
 
-    "GADReward": { "SetAPPKEY": "ca-app-pub-5926259661127897~3476517754", "SetPOSID": "ca-app-pub-5926259661127897/3026592043" },
-    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5926259661127897~3476517754", "SetPOSID": "ca-app-pub-5926259661127897/6166260277" },
+    "GADReward": { "SetAPPKEY": "ca-app-pub-5605613744815712~9111987815", "SetPOSID": "ca-app-pub-5605613744815712/7260817692" },
+    "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5605613744815712~9111987815", "SetPOSID": "ca-app-pub-5605613744815712/5456115155" },
 
     "OrderADReward": ["GAD"],
     "OrderADInterstitial": ["GAD"],
