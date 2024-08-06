@@ -36,7 +36,7 @@
   "Enable60sAutoAD": 0,
   "EnableLevelupAD": 0,
   "EnableItemAD": 0,
-  "Enable5WaveAD": 0,
+  "Enable5WaveAD": 4,
 
   "TestAD": 0,
 
