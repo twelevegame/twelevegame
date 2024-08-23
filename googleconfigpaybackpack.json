@@ -22,7 +22,7 @@
     "EnableStartWaveAD": 0,
     "EnableEndWaveAD": 0,
     "EnableStartShopAD": 0,
-    "EnableEndGameAD": 4,
+    "EnableEndGameAD": 0,
     "EnableBackToGameloginAD": 0,
     "EnableSettingButtonAD": 0,
     "EnablePauseButtonAD": 0,
