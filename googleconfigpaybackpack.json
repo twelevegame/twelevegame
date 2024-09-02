@@ -17,6 +17,7 @@
     "EnableADFullScreen": true,
     "EnableADReward": true,
     "EnableInGameADdiban": false,
+    "EnableTeaching": false,
 
     "EnableGameloginAD": 0,
     "EnableStartWaveAD": 0,
