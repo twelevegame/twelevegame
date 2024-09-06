@@ -43,8 +43,8 @@
     "MetaInterADInterval": 0,
     "MetaFullScreenADInterval": 0,
 
-    "UseSignature": false,
-    "signature": "",
+    "UseSignature":true,
+    "signature": "B4458622E7CC32873FEBEE944A2B7B43",
 
     "GADReward": { "SetAPPKEY": "ca-app-pub-5404224524654134~2839076168", "SetPOSID": "ca-app-pub-5404224524654134/1579418086" },
     "GADInterstitial": { "SetAPPKEY": "ca-app-pub-5404224524654134~2839076168", "SetPOSID": "ca-app-pub-5404224524654134/9785211169" },
@@ -52,7 +52,7 @@
     "OrderADReward": ["GAD"],
     "OrderADInterstitial": ["GAD"],
 
-    "GooglePaySDK": { "EnableDebug":"","SetProducts": "lm01|lm01#lm02|lm02#lm03|lm03#ds02|ds02#ds03|ds03#ds04|ds04#db02|db02#db03|db03#db04|db04#db05|db05#db06|db06#db07|db07#wb02|wb02#wb03|wb03#wb04|wb04#wb05|wb05#wb06|wb06#wb07|wb07#wb08|wb08#fund01|fund01#fund02|fund02#fund03|fund03#fund04|fund04#fund05|fund05#fund06|fund06#mc01|mc01#mc02|mc02#dm01|dm01#dm02|dm02#dm03|dm03#dm04|dm04#dm05|dm05#dm06|dm06#cg01|cg01#cg02|cg02#cg03|cg03#cg04|cg04#cg05|cg05#cg06|cg06#cg07|cg07#cg08|cg08#cg09|cg09#cg10|cg10#cg11|cg11#cg12|cg12#cg13|cg13#cg14|cg14#cg15|cg15" },
+    "GooglePaySDK": { "EnableDebug":"","SetProducts": "lm01|lm01#lm02|lm02#lm03|lm03#lm04|lm04#lm05|lm05#lm06|lm06#ds02|ds02#ds03|ds03#ds04|ds04#db02|db02#db03|db03#db04|db04#db05|db05#db06|db06#db07|db07#wb02|wb02#wb03|wb03#wb04|wb04#wb05|wb05#wb06|wb06#wb07|wb07#wb08|wb08#fund01|fund01#fund02|fund02#fund03|fund03#fund04|fund04#fund05|fund05#fund06|fund06#mc01|mc01#mc02|mc02#dm01|dm01#dm02|dm02#dm03|dm03#dm04|dm04#dm05|dm05#dm06|dm06#cg01|cg01#cg02|cg02#cg03|cg03#cg04|cg04#cg05|cg05#cg06|cg06#cg07|cg07#cg08|cg08#cg09|cg09#cg10|cg10#cg11|cg11#cg12|cg12#cg13|cg13#cg14|cg14#cg15|cg15" },
     "OrderPay": ["GooglePay"],
 
     "RebirthCount": 3,
