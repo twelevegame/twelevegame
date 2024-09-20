@@ -53,7 +53,7 @@
     "OrderADReward": ["GAD"],
     "OrderADInterstitial": ["GAD"],
 
-    "GooglePaySDK": { "SetProducts": "PD01|pd01" },
+    "GooglePaySDK": { "EnableDebug":"","SetProducts": "lm02|lm02#lm04|lm04#lm05|lm05#lm06|lm06#lm07|lm07#mc01|mc01#mc02|mc02#dm01|dm01#dm02|dm02#dm03|dm03#dm04|dm04#dm05|dm05#dm06|dm06#gold01|gold01#gold02|gold02#gold03|gold03#gold04|gold04#gold05|gold05#gold06|gold06"},
     "OrderPay": ["GooglePay"],
 
     "RebirthCount": 3,
